@@ -18,7 +18,7 @@
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: *www.linkedin.com/in/-navya-kumar-
+- LinkedIn: *www.linkedin.com/in/-navya-kumar-*
 
 - Email: *navyakumar27009@gmail.com*
 
