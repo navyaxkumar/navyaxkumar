@@ -10,13 +10,6 @@
 
 ---
 
-### 🛠️ Skills
-- Languages: Python, HTML, CSS
-- Tools: GitHub, VS Code, Figma
-- Concepts: Data Structures, OOP, Design Thinking
-
----
-
 ### 📫 Connect With Me
 - LinkedIn: *www.linkedin.com/in/-navya-kumar-*
 
